@@ -1,0 +1,10 @@
+torch
+transformers
+accelerate
+sentencepiece
+datasets
+faker
+tqdm
+nlpaug==1.1.10
+protobuf
+nltk

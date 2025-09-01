@@ -1,0 +1,76 @@
+{
+  "facts": {
+    "location": "Richmond Hill",
+    "school": "Electrical Engineering at Waterloo",
+    "badminton_rank": "1st in Canada in doubles (Aug 2025)",
+    "games": ["MapleStory", "Genshin Impact", "League of Legends", "Marvel Rivals"],
+    "foods": ["noodles with soup", "sushi", "ramen", "pho"],
+    "term": "2B term",
+    "music": ["upbeat anime OSTs", "lofi beats"],
+    "hobbies": ["playing video games", "coding", "badminton"]
+  },
+  "work_experience": [
+    {
+      "position": "Engineering Intern",
+      "company": "Qualcomm, Markham",
+      "duration": "May 2025 - Aug 2025",
+      "details": [
+        "Built the backend for a web-based internal testing tool enabling ~40 developers to rerun AI test cases for git commit regression testing, cutting manual test setup time by 50%.",
+        "Engineered a PostgreSQL database and Python pipeline to parse and store over 10,000 nightly and staged test runs.",
+        "Developed FastAPI services and integrated with a Streamlit UI to deliver dynamic filtering by SOC, test type, suite, and run date.",
+        "Collaborated cross-functionally to integrate client-side execution, allowing automated bisection and graphical display of past test runs."
+      ]
+    },
+    {
+      "position": "Data Analyst",
+      "company": "CIBC Mellon, Toronto",
+      "duration": "Sept 2024 - Dec 2024",
+      "details": [
+        "Developed automated tools in Power BI to streamline monthly reporting processes, reducing time by 50%.",
+        "Created and optimized data models to resolve mapping errors and circular dependencies.",
+        "Performed monthly updates to financial datasets with Power Query and DAX while maintaining historical integrity.",
+        "Built dashboards that delivered insights influencing operational and financial decision-making."
+      ]
+    },
+    {
+      "position": "IT Support Technician",
+      "company": "Einfolab Inc, Richmond Hill",
+      "duration": "Jan 2024 - Apr 2024",
+      "details": [
+        "Provided technical support for hardware and software issues for 200+ client companies.",
+        "Performed maintenance on networks and servers to optimize performance.",
+        "Contributed to a client network migration project relocating over 100 computers.",
+        "Documented recurring issues and resolutions to speed up future troubleshooting."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Multi-Country Time Series Data Management System",
+      "duration": "May 2025 - July 2025",
+      "details": [
+        "Developed a C++ system to manage and analyze multi-country time series datasets.",
+        "Implemented dynamic arrays, linked lists, hash maps, and graph-based structures for efficient storage and lookup.",
+        "Built CSV parsing, data manipulation, and statistical analysis features to ensure scalability."
+      ]
+    },
+    {
+      "title": "Alarm Clock",
+      "duration": "Sep 2023 - Nov 2023",
+      "details": [
+        "Designed and built a functional alarm clock for ECE 198 (Design Studio Course).",
+        "Developed and wired an STM32 system with adjustable time and alarm settings.",
+        "Connected microcontroller, digital display, passive buzzer, and buttons."
+      ]
+    },
+    {
+      "title": "AI Chatbot Design",
+      "duration": "Aug 2025 - Present",
+      "details": [
+        "Designed an AI chatbot capable of understanding user intents and providing dynamic responses.",
+        "Implemented natural language understanding, response templates, and intent matching.",
+        "Worked on personalized recommendations and adaptive dialogue for natural interactions."
+      ]
+    }
+  ]
+}

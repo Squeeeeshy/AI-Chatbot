@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+gpt2_chatbot/
+logs/
+*.pt
+*.bin
+chat_data.json
+user_augmented.json
+user.json
+
