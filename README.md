@@ -42,6 +42,9 @@ This makes the chatbot both **customizable** and **scalable**: you can add new d
 
 ## 🚀 Pipeline Procedure
 
+
+```bash
+
 1. Generate or append training data
    # Use your dataset generator (intent-based + profile-aware)
    python generate_dataset.py
